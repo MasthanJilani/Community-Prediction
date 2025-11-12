@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "k": 20,
+    "num_restarts": 10,
+    "weight_method": "inv_nnz",
+    "weights": [
+      0.1968056418008232,
+      0.3053361741417948,
+      2.497858184057382
+    ],
+    "modularity_mean_argmax": {
+      "mean": 0.86968120370386647,
+      "std": 0.02281193237661444
+    },
+    "modularity_mean_kmeans": {
+      "mean": 0.913106235836392,
+      "std": 0.02799641663510846
+    },
+    "conductance_mean_argmax": {
+      "mean": 0.9387709496206833,
+      "std": 0.022387670510150105
+    },
+    "conductance_mean_kmeans": {
+      "mean": 0.8937225319383547,
+      "std": 0.022369584757826664
+    },
+    "linkpred_auc_first_layer": {
+      "mean": 0.9242722668817228,
+      "std": 0.021909533035772467
+    },
+    "stability_argmax_mean_nmi": 0.92470790835556715,
+    "stability_argmax_std_nmi": 0.048459984526625526,
+    "stability_kmeans_mean_nmi": 0.92782932247029287,
+    "stability_kmeans_std_nmi": 0.03965587281241275
+  },
+  "runs": [
+    {
+      "seed": 0,
+      "modularity_mean_argmax": 0.8110260121002913
+    },
+    {
+      "seed": 1,
+      "modularity_mean_argmax": 0.84227485560833076
+    },
+    {
+      "seed": 2,
+      "modularity_mean_argmax": 0.93124108503195004
+    },
+    {
+      "seed": 3,
+      "modularity_mean_argmax": 0.8461522323529326
+    },
+    {
+      "seed": 4,
+      "modularity_mean_argmax": 0.90090331343475124
+    },
+    {
+      "seed": 5,
+      "modularity_mean_argmax": 0.84951143813110907
+    },
+    {
+      "seed": 6,
+      "modularity_mean_argmax": 0.9302712638152323
+    },
+    {
+      "seed": 7,
+      "modularity_mean_argmax": 0.8420708852804243
+    },
+    {
+      "seed": 8,
+      "modularity_mean_argmax": 0.88781061975243877
+    },
+    {
+      "seed": 9,
+      "modularity_mean_argmax": 0.8555503315312045
+    }
+  ]
+}
